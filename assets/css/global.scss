@@ -1,0 +1,69 @@
+:root {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    background: rgb(233, 227, 227);
+}
+
+main {
+    width: 100%;
+    min-height: 100vh !important;
+
+
+
+}
+
+h3 {
+    color:  rgb(174, 33, 78);
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.bmi {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    background: snow;
+    box-shadow: 1px 1px 6px 2px rgb(212, 204, 204);
+}
+
+input {
+
+    color: rgb(174, 33, 78);
+    border-width: 1px;
+    border-style: hidden;
+    border-bottom: 1px solid gray;
+    outline: none;
+
+}
+
+.cal_button {
+    height: 50px;
+
+
+}
+
+.cal_button>.calc {
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    background: rgb(174, 33, 78);
+    
+
+}
+
+.answer,
+.description {
+    height: 40px;
+   
+}
+.answer{
+    color:  rgb(174, 33, 78);
+}
