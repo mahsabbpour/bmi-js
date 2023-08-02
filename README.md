@@ -1,6 +1,6 @@
 # bmi-js-
 
-- [Demo Project](  https://mahsabbpour.github.io/3-clip-path/)
+- [Demo Project](   https://mahsabbpour.github.io/bmi-js/)
 
 - Developed by Mahsa Babapour
 
